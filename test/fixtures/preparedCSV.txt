@@ -1,0 +1,27 @@
+"id","title","created_utc","score"
+"5a0ee3766a19e00c3c76cf50","All You Need To Know About CSS-in-JS – Hacker Noon",1510911994,2
+"5a0ee3766a19e00c3c76cf5b","Arrow Functions in Class Properties Might Not Be As Great As We Think",1510858097,7
+"5a0ee3766a19e00c3c76cf52","Clean extract articles from websites, directly to markdown",1510923891,1
+"5a0ee3766a19e00c3c76cf5e","Correctly querying a JSON file.[help]",1510864566,2
+"5a0ee3766a19e00c3c76cf4b","Filter/map/reduce are too slow, any tool to replace them with loops?",1510916688,4
+"5a0ee3766a19e00c3c76cf55","Flexbox: Getting started (Part 1/2) – codeburst",1510911222,0
+"5a0ee3766a19e00c3c76cf5d","Hacking together a front end framework. Any lightweight databinding solutions out there?",1510871456,2
+"5a0ee3766a19e00c3c76cf58","How To Schedule Timer-Based Callbacks With Example",1510897147,0
+"5a0ee3766a19e00c3c76cf62","I reduced GraphQL codebase size by 40% and increased type coverage to 90%+",1510763205,234
+"5a0ee3766a19e00c3c76cf4c","I want to stop using inline script tags that do ajax calls, but what's a fine solution?",1510905716,4
+"5a0ee3766a19e00c3c76cf4a","JavaScript. The Core: 2nd Edition",1510842897,298
+"5a0ee3766a19e00c3c76cf5c","Marvel API + Vuepack (Vue + Vuex), Axios",1510840268,9
+"5a0ee3766a19e00c3c76cf56","My dubious, simple to use, ajax to localstorage caching module, tell me how terrible an idea this is so I stop using it.",1510874733,6
+"5a0ee3766a19e00c3c76cf5a","Native pattern matching for javascript officially released!",1510907367,0
+"5a0ee3766a19e00c3c76cf61","React or Angular!",1510870609,0
+"5a0ee3766a19e00c3c76cf54","Regex - grabbing &lt;li&gt; tags contents",1510897082,3
+"5a0ee3766a19e00c3c76cf4e","Regex Won't remove tab",1510897694,6
+"5a0ee3766a19e00c3c76cf59","RhykeJS —A gesture library for turning on “experiment function”",1510897089,1
+"5a0ee3766a19e00c3c76cf53","Ringa JS: a state and asynchronous management framework and full component library (in progress for React). Thoughts?",1510920957,1
+"5a0ee3766a19e00c3c76cf57","Sapphire browser game in three.js",1510843312,26
+"5a0ee3766a19e00c3c76cf5f","Selecting 'Chosen' box element outside of source?",1510864464,2
+"5a0ee3766a19e00c3c76cf49","Showoff Saturday (November 11, 2017)",1510401029,10
+"5a0ee3766a19e00c3c76cf60","Type or not to Type?",1510864213,2
+"5a0ee3766a19e00c3c76cf4f","VueJS Conference, Frontend Love Conference, Web Development News",1510913308,2
+"5a0ee3766a19e00c3c76cf4d","typeorm-loader – Just published a GraphQL and TypeORM-aware caching dataloader that will fold multiple database queries into a single query every event loop tick",1510887431,9
+"5a0ee3766a19e00c3c76cf51","web-components: slim.js typescript/es6 starter kit",1510911985,2
